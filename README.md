@@ -83,6 +83,3 @@ This project is designed to practice Python programming,
 modular software design, numerical computing, data
 visualization, error handling, testing, and Git.
 
-## License
-
-Choose a license before publishing a public release.
