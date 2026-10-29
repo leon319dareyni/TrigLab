@@ -29,7 +29,7 @@ interface in one educational project.
 
 Clone the repository:
 
-    git clone YOUR_GITHUB_REPOSITORY_URL
+    git clone https://github.com/leon319dareyni/TrigLab/
     cd TrigLab
 
 Create a virtual environment:
